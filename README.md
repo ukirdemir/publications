@@ -63,4 +63,6 @@ Training in ML for weather and climate, numerical weather prediction and HPC:
 - Getting Started with AI on Supercomputers, JSC, 12-13 December 2023 (online).
 - Introduction to Bayesian Statistical Learning, JSC, 18-22 March 2024 (online).
 - Interactive High-Performance Computing with JupyterLab, JSC, 23-24 April 2024 (online).
-- Directive-based GPU Programming with OpenACC, JSC, 3-5 November 2026 (online); will be attended.
+- Machine Learning for Earth Systems Modelling, Course 1: Foundations and New Frontiers, ECMWF with KIT and WUR (Destination Earth), November 2026 (online, 10 hours, completed).
+- Machine Learning for Earth Systems Modelling, Course 2: Architectures, Data and Prediction, ECMWF with KIT and WUR (Destination Earth), November 2026 (online, 23 hours, completed).
+- Machine Learning for Earth Systems Modelling, Course 3: Applications and Future Directions, ECMWF with KIT and WUR (Destination Earth), November 2026 (online, ongoing).
