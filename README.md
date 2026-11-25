@@ -66,3 +66,4 @@ Training in ML for weather and climate, numerical weather prediction and HPC:
 - Machine Learning for Earth Systems Modelling, Course 1: Foundations and New Frontiers, ECMWF with KIT and WUR (Destination Earth), November 2026 (online, 10 hours, completed).
 - Machine Learning for Earth Systems Modelling, Course 2: Architectures, Data and Prediction, ECMWF with KIT and WUR (Destination Earth), November 2026 (online, 23 hours, completed).
 - Machine Learning for Earth Systems Modelling, Course 3: Applications and Future Directions, ECMWF with KIT and WUR (Destination Earth), November 2026 (online, ongoing).
+- Earth Sessions: Python for Earth Data, Copernicus and Mercator Ocean International, 24 November 2026 (online, 2.5 hours, attendance).
