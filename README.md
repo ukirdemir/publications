@@ -6,7 +6,7 @@ Summary: 9 peer-reviewed articles, 3 book chapters, 18 conference papers. ORCID 
 
 ## Peer-reviewed articles
 
-1. Kirdemir U., Fistikoglu O. and Okkan U. "Uncertainties in Streamflow Projections: A Comprehensive Examination of Challenges Arising from Climate and Hydrological Models". *Theoretical and Applied Climatology*, 2024, 156 (183).
+1. Kirdemir U., Fistikoglu O. and Okkan U. "Uncertainties in streamflow projections: a comprehensive examination of variabilities arising from climate and hydrological models in the Tahtali Dam Basin, Turkey". *Theoretical and Applied Climatology*, 2024, 156 (183).
 2. Kirdemir U., Okkan U. and Fistikoglu O. "Projecting Aridity From Statistically Downscaled and Bias Corrected Variables for Gediz Basin / Turkey". *Journal of Water and Climate Change*, 2022, 13(8), 3061-3082.
 3. Okkan U. and Kirdemir U. "Locally tuned hybridized particle swarm optimization for the calibration of the nonlinear Muskingum flood routing model". *Journal of Water and Climate Change*, 2020, 11, 343-358.
 4. Okkan U. and Kirdemir U. "Towards a hybrid algorithm for the robust calibration of rainfall-runoff models". *Journal of Hydroinformatics*, 2020, 22(4), 876-899.
